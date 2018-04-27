@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import unittest
-#
+
 class NewVisitorTest(unittest.TestCase): # this is an end-to-end / functional test
 
     def setUp(self):
