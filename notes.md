@@ -6,5 +6,5 @@
 
 **Progress:** Good, our deliberately silly return value is now no longer fooling our tests, so we are allowed to rew...
 https://www.obeythetestinggoat.com/book/chapter_post_and_database.html
-
+* Integration test, a unit test which relies on an external system such as a database.
 
